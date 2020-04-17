@@ -20,7 +20,6 @@ disqusShortname = "yourdiscussshortname"
     keywords = "blog,developer,personal"
     info = "Full Stack DevOps and Magician"
     avatarurl = "images/avatar.jpg"
-    #gravatar = "john.doe@example.com"
     footercontent = "Enter a text here."
 
     dateformat = "January 2, 2006"
@@ -65,7 +64,7 @@ disqusShortname = "yourdiscussshortname"
     name = "Github"
     icon = "fab fa-github"
     weight = 1
-    url = "https://github.com/johndoe/"
+    url = "https://github.com/hweining/"
 [[params.social]]
     name = "Twitter"
     icon = "fab fa-twitter"
